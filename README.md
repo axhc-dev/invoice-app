@@ -51,7 +51,7 @@ Generator faktur modern berbasis web yang ringan, cepat, dan gratis. Cocok untuk
 
 ### Untuk Developer
 ```bash
-git clone https://github.com/username/invoice-app.git
+git clone https://github.com/axhc-dev/invoice-app.git
 cd invoice-app
 ```
 Buka `index.html` di browser - selesai!
